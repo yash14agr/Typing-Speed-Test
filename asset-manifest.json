@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Typing-Speed-Test/static/css/main.00a8f267.css",
+    "main.js": "/Typing-Speed-Test/static/js/main.3432250c.js",
+    "static/media/hero.png": "/Typing-Speed-Test/static/media/hero.96e141d3fe30913c3117.png",
+    "static/media/flash.png": "/Typing-Speed-Test/static/media/flash.904ac8fd0f7b25e86967.png",
+    "index.html": "/Typing-Speed-Test/index.html",
+    "main.00a8f267.css.map": "/Typing-Speed-Test/static/css/main.00a8f267.css.map",
+    "main.3432250c.js.map": "/Typing-Speed-Test/static/js/main.3432250c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a8f267.css",
+    "static/js/main.3432250c.js"
+  ]
+}
